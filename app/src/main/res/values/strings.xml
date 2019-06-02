@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CAT FACTS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="txt_screen_3">3-й экран</string>
+    <string name="txt_screen_2">2-й экран</string>
+    <string name="txt_screen_1">1-й экран</string>
+</resources>
